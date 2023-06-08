@@ -1,0 +1,1 @@
+String asset = 'assets/syncz-logo.svg';
